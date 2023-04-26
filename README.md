@@ -12,6 +12,7 @@ Welcome to my Github page! I am Cyanade.
 
 #### 🌱 Things I am currently working on: 
 - Edge AntiCheat (https://edgeac.xyz) [Owner/Developer]
+- Vibe Client [Developer]
 - IceMC Network [Owner/Founder]
 - Warzone Network (https://warzone.rip) [Owner]
 - SosaMC (https://sosamc.net) [Developer]
