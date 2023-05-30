@@ -15,7 +15,7 @@ Welcome to my Github page! I am Cyanade.
 - Vibe Client [Developer]
 - IceMC Network [Owner/Founder]
 - Warzone Network (https://warzone.rip) [Owner]
-- Straindez (https://straindez.net) [Developer]
+- Straindez (https://straindez.net) [Manager]
 - SosaMC (https://sosamc.net) [Developer]
 - PacketPool (https://packetpool.com) [Staff]
 
