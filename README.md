@@ -14,12 +14,12 @@ Welcome to my Github page! I am Cyanade.
 - Edge AntiCheat (https://edgeac.xyz) [Owner/Developer]
 - Vibe Client [Developer]
 - IceMC Network [Owner/Founder]
-- Warzone Network (https://warzone.rip) [Owner]
 - Straindez (https://straindez.net) [Manager]
 - SosaMC (https://sosamc.net) [Developer]
 - PacketPool (https://packetpool.com) [Staff]
 
 #### :muscle: Previous positions:
+- Warzone Network [Owner]
 - HCRival [Trial-Mod]
 - Infinite [Developer]
 - Kira [Moderator]
