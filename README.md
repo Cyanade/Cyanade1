@@ -11,15 +11,17 @@ Welcome to my Github page! I am Cyanade.
 </div>
 
 #### 🌱 Things I am currently working on: 
-- Vibe Client [Developer]
 - IceMC Network [Owner/Founder]
 - Straindez (https://straindez.net) [Manager]
+- Hearts Network [Developer]
+- NetworkLayer [Developer/Support]
 - SosaMC (https://sosamc.net) [Developer]
 - PacketPool (https://packetpool.com) [Staff]
 
 #### :muscle: Previous positions:
 - Warzone Network [Owner]
 - HCRival [Trial-Mod]
+- MapleCraftMC [Developer]
 - Infinite [Developer]
 - Kira [Moderator]
 - LeoneMC [Developer]
