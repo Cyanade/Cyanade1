@@ -11,7 +11,6 @@ Welcome to my Github page! I am Cyanade.
 </div>
 
 #### 🌱 Things I am currently working on: 
-- Edge AntiCheat (https://edgeac.xyz) [Owner/Developer]
 - Vibe Client [Developer]
 - IceMC Network [Owner/Founder]
 - Straindez (https://straindez.net) [Manager]
